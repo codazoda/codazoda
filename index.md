@@ -4,7 +4,8 @@ This is my home page. It's an MD file.
 
 ## Projects
 
-Codazoda.com
+
+### Codazoda.com
 
 Goal:
 Status: Active
@@ -12,7 +13,8 @@ Started: March 2023
 
 This is a website of _failed_ business attemps. Maybe there will be some successes here, eventually.
 
-Codazoda Coding Videos
+
+### Codazoda Coding Videos
 
 Goal: Gain 100 YouTube Followers
 Status: Active
