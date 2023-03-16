@@ -1,5 +1,3 @@
-# Codazoda
-
 Err... I accidentally found out that if you have a repo named the same as your GitHub account and it has a `README.md` file, it will show up on your profile page.
 
 <!--
